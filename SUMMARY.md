@@ -1,8 +1,12 @@
 # 简介
-快召科技web前端编码规范
-* [快召科技web前端编码规范](README.md)
+快召科技web前端handbook
+* [快召科技web前端handbook](README.md)
 * [序](INTRODUCTION.md)
-* [airbnb es6规范](section/1/1.md)
+* [安装及配置](section/0/1.md)
+  * [安装nvm和node](section/0/1-1.md)
+  * [安装eslint和airbnb扩展](section/0/1-2.md)
+  * [webstorm 配置](section/0/1-3.md)
+* [ES6/7编码规范](section/1/1.md)
   * [类型](section/1/1-1.md)
   * [引用](section/1/1-2.md)
   * [对象](section/1/1-3.md)
@@ -27,4 +31,9 @@
   * [命名规则](section/1/1-22.md)
   * [存取器](section/1/1-23.md)
   * [事件](section/1/1-24.md)
-* [airbnb es5规范](section/1/2.md)
+* [技术选型及文档](section/2/1.md)
+  * [reactjs](section/2/1-1.md)
+  * [redux](section/2/1-2.md)
+  * [redux-devtool](section/2/1-3.md)
+  * [react-devtool](section/2/1-4.md)
+
